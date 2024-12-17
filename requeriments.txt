@@ -1,0 +1,8 @@
+
+psutil
+pywin32
+requests
+jwt
+browser-history
+pytz
+schedule
